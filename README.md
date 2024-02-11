@@ -1,5 +1,5 @@
-# soliditymoderfier
-Solidity Moderfier 
+# soliditymodifier
+Solidity Modifier 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
